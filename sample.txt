@@ -1,9 +1,9 @@
 aaaa
+bbbb
 
 // 로컬 저장소 생성
 git init
-
-// 뭔가 파일 만들고 작업
+// 뭔가 파일을 만들고 작업
 
 // 현재 상태
 git status
