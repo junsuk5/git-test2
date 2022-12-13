@@ -1,1 +1,32 @@
 aaaa
+
+// 로컬 저장소 생성
+git init
+
+// 뭔가 파일 만들고 작업
+
+// 현재 상태
+git status
+
+// 버전 관리 대상으로 등록
+git add sample.txt
+git add .
+
+// 현재 상태
+git status
+
+// 기록
+git commit -m "코멘트"
+
+// 현재 상태
+git status
+
+// 커밋 이력 확인
+git log
+
+// Github과 연결
+git remote add origin [git 주소]
+
+// Github에 업로드
+git push -u origin master    // 맨 처음
+git push  // 그 다음부터는
